@@ -2,7 +2,7 @@
   "name": "GamePulse AI",
   "short_name": "GamePulse",
   "description": "Le notizie gaming di IGN Italia, Multiplayer.it ed Everyeye.it, riassunte dall'IA.",
-  "start_url": "./gamepulse-ai.html",
+  "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
